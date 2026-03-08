@@ -1,0 +1,1 @@
+This script analyzes login attempts, counts failures, and blokes IP addresses that have faild 3 or more times.
